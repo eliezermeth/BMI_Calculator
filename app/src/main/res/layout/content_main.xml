@@ -25,6 +25,7 @@
 
     <EditText
         android:id="@+id/et_height"
+        android:hint="@string/hint_height"
         style="@style/main_edit_text_style" />
 
     <!-- Weight -->
@@ -35,6 +36,7 @@
 
     <EditText
         android:id="@+id/et_weight"
+        android:hint="@string/hint_weight"
         style="@style/main_edit_text_style" />
 
 </LinearLayout>
